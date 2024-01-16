@@ -1,2 +1,2 @@
-# Winter-Internship-at-IIT-Jammu
+# Polaization converter
 Internship
